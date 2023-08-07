@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1690897892 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\utilidades\calculadora\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"Calculadora.h"
+
+1690898497 c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\utilidades\calculadora\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+
+1690898538 source:c:\users\leand\documents\unlam\zzportafoliogithub\proyectos c\utilidades\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculadora.h"
+
